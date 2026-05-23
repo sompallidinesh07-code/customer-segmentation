@@ -1,4 +1,5 @@
 # 🔮 AuraSegment: Premium Customer Segmentation & Predictive Analytics
+https://customer-segmentation-pbphzytgdz8nwuenbehz4r.streamlit.app/
 
 AuraSegment is an ultra-premium, interactive machine-learning-powered web dashboard designed to segment customers based on their age, income, and purchasing habits. It categorizes shoppers into five distinct cohorts and provides real-time, cohort-specific marketing strategies for business teams.
 
